@@ -1,3 +1,4 @@
 function clicar(){
-    alert('Teste');
+    alert('Novo pull');
+
 }
